@@ -1,0 +1,1 @@
+Exercícios realizadas na trilha back-end com JavaScript da Alura
